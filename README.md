@@ -1,0 +1,2 @@
+# scheduler_algorithms_simulator
+Operational System process scheduling simulator
