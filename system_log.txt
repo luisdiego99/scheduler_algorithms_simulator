@@ -1,0 +1,1 @@
+[2025-03-07 19:37:41] La tabla de procesos ha sido consultada, pero se encuentra vacía
